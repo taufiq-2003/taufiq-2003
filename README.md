@@ -19,7 +19,7 @@ I'm currently studying **Cyber-Physical Systems Engineering** and building my fo
 
 - 🏫 **Dhanghara High School**
 - 🎓 **Govt. Science College**
-- 🏛️ **University of Frontier Technology**
+- 🏛️ **University of Frontier Technology,Bangladesh**
   - **Faculty:** Cyber-Physical System Engineering
   - **Department:** IRE
   - **Session:** 2025–2026
