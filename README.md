@@ -21,7 +21,7 @@ I'm currently studying **Cyber-Physical Systems Engineering** and building my fo
 - 🎓 **Govt. Science College**
 - 🏛️ **University of Frontier Technology,Bangladesh**
   - **Faculty:** Cyber-Physical System Engineering
-  - **Department:** IRE
+  - **Department:** Internet of Things(IoT) and Robotics Engineering
   - **Session:** 2025–2026
 
 ---
