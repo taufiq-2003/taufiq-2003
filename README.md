@@ -72,7 +72,7 @@ To gradually build the skills needed to design and develop **real-world robotic 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=toufiq2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api?username=taufiq-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 <br/>
 <img src="https://streak-stats.demolab.com/?user=toufiq2003&theme=dark&hide_border=false" />
 <br/>
