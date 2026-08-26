@@ -41,7 +41,7 @@ I'm currently studying **Cyber-Physical Systems Engineering** and building my fo
 [![C Learning Journey](https://img.shields.io/badge/C_Learning_Journey-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/taufiq-2003/my-C-learning-journy)
 [![Number Guessing Game](https://img.shields.io/badge/Number_Guessing_Game-2E8B57?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/taufiq-2003/NUMBER-GESSING-GAME)
 
-[![My 100 Projects on C](https://img.shields.io/badge/100_Projects_on_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/taufiq-2003/my-100-projects-on-c)
+[![C Learning Journey](https://img.shields.io/badge/C:_C_Learning_Journey-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/taufiq-2003/my-C-learning-journy)
 
 ### 🔭 Areas I'm Exploring
 
