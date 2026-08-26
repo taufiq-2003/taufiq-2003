@@ -37,6 +37,11 @@ I'm currently studying **Cyber-Physical Systems Engineering** and building my fo
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
+## 🛠️ Currently practicing
+[![C Learning Journey](https://img.shields.io/badge/C_Learning_Journey-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/taufiq-2003/my-C-learning-journy)
+[![Number Guessing Game](https://img.shields.io/badge/Number_Guessing_Game-2E8B57?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/taufiq-2003/NUMBER-GESSING-GAME)
+[![100 Projects on C](https://img.shields.io/badge/100_Projects_on_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/taufiq-2003/my-100-projects-on-c)
+
 ### 🔭 Areas I'm Exploring
 
 `Robotics` • `Embedded Systems` • `Electronics` • `Automation` • `Cyber-Physical Systems` • `CAD`
