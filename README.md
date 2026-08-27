@@ -75,22 +75,24 @@ To gradually build the skills needed to design and develop **real-world robotic 
 
 ---
 
-## 📊 GitHub Stats
+### 📊 My GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=taufiq-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+<!-- Main GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=taufiq-2003&show_icons=true&theme=radical&hide_rank=false" alt="Taufiq's GitHub Stats" />
 
-<br/>
+<p>
 
-<img src="https://streak-stats.demolab.com/?user=taufiq-2003&theme=dark&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=taufiq-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiq-2003&layout=compact&theme=radical" alt="Top Languages" />
 
 </p>
 
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taufiq-2003&theme=radical" alt="GitHub Streak" />
+
+</div>
 ---
 
 ## ✍️ Random Dev Quote
